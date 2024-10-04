@@ -6,6 +6,9 @@ Snowflake Quick Starts Link : https://quickstarts.snowflake.com/guide/vhol_data_
 
 Hands-on code repo: https://github.com/dheeraj2112/Data_Vault_2.0_Modeling_Project/blob/ae6fc13b2b03dd86e7279d708481cc3b34279f5a/Data%20Vault%202.0%20on%20Snowflake%20tutorial%20code%20repo.sql
 
+
+Data Vault Modeling Guide:  https://github.com/dheeraj2112/Data_Vault_2.0_Modeling_Project/blob/014a714a2c817bfbe3b13cde85c5e9f6d4f4e690/data-vault-modeling-guide.pdf
+
 **Course Overview and Contents**
 
 **1. Overview**
