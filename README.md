@@ -1,5 +1,5 @@
 # Data_Vault_2.0_Modeling_Project
-This project is a Data Modeling Design and deployment using Data Vault 2.0 methodology. 
+This is a Sample Data Modeling Design and deployment project (Near Real Time vault) using Data Vault 2.0 methodology. 
 
 Snowflake Quick Starts Link : https://quickstarts.snowflake.com/guide/vhol_data_vault/index.html?index=..%2F..index#0
 
