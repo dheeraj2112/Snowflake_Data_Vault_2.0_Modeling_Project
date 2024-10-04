@@ -2,10 +2,11 @@
 This project is a Data Modeling Design and deployment using Data Vault 2.0 methodology. 
 
 Snowflake Quick Starts Link : https://quickstarts.snowflake.com/guide/vhol_data_vault/index.html?index=..%2F..index#0
+
+
 Hands-on code repo: 
 
-
-
+**Course Overview and Contents**
 
 **1. Overview**
 
